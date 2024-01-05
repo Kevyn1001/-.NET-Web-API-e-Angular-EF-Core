@@ -25,5 +25,4 @@ C:\Users\f8089908\Documents\Cursos\Seja Full-Stack com .NET Web API e Angular + 
 C:\Users\f8089908\Documents\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\-.NET-Web-API-e-Angular-EF-Core\Back-end\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\f8089908\Documents\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\-.NET-Web-API-e-Angular-EF-Core\Back-end\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\Users\f8089908\Documents\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\-.NET-Web-API-e-Angular-EF-Core\Back-end\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
-C:\Users\f8089908\Documents\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\-.NET-Web-API-e-Angular-EF-Core\Back-end\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.StaticWebAssets.xml
 C:\Users\f8089908\Documents\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\-.NET-Web-API-e-Angular-EF-Core\Back-end\src\ProEventos.API\obj\Debug\net5.0\refint\ProEventos.API.dll
