@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\-.NET-Web-API-e-Angular-EF-Core\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\ProEventos\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\-.NET-Web-API-e-Angular-EF-Core\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\ProEventos\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\-.NET-Web-API-e-Angular-EF-Core\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\ProEventos\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\-.NET-Web-API-e-Angular-EF-Core\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\ProEventos\\Back-end\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\f8089908\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\-.NET-Web-API-e-Angular-EF-Core\\Back-end\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\f8089908\\Documents\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\ProEventos\\Back-end\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\f8089908\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,26 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -51,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
